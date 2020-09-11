@@ -1,0 +1,232 @@
+Welcome to Ghost hunting!
+
+How good at ghost hunting are you?: 
+1 = New 
+2 = Okay 
+3 = Very Good 
+
+From input.txt: A
+
+Invalid entry.
+Number Format Exception.
+
+How good at ghost hunting are you?: 
+1 = New 
+2 = Okay 
+3 = Very Good 
+
+From input.txt: 3
+
+
+Enter your character's name: 
+Characters only. 
+
+From input.txt: priya
+
+priya, you grew up hearing about the creepy old mansion on Ghoul Street.
+You hire a ghost hunting service which clears ghosts from homes before tenants move in. 
+Since you conviently are marrying your childhood sweet heart and are looking for a place to live, you hire them. 
+You also want to see a ghost, so the service providers make you sign a liability release before you enter.
+You've just entered the haunted mansion...
+When you enter, you walk into a long and narrow hallway.
+
+Which room would you like to enter: 
+1 = Bedroom 
+2 = Study 
+3 = Day Room 
+4 = Living Room 
+
+From input.txt: 1
+
+While walking in, you stop as you come to a room on your left.
+As you walk in, all you hear is 'errr' 'err' 'errr' 'err'...
+Immediately you see a creepy doll in a creaking rocking chair.
+You freeze. 
+The possessed doll's head makes a full 360°.
+The doll becomes violent, flying objects are being raised and tossed.
+
+You have defeated the ghost.
+
+
+-------------------------------------------
+priya's Stat: 100
+-------------------------------------------
+
+
+You have defeated the ghost. 
+
+You have full health
+
+
+-------------------------------------------
+priya's Stat: 100
+-------------------------------------------
+
+
+Which room would you like to enter: 
+1 = Bedroom 
+2 = Study 
+3 = Day Room 
+4 = Living Room 
+
+From input.txt: 2
+
+You come to a square room, a study. 
+You see a large oak wood desk, disarrayed papers becuase of soft winds from a broken window.
+You suddenly get shiveres when the gust of wind intensified. 
+A warm breath behind your neck makes you stop.  
+You slowly turn around.
+The study room ghost has scissors, staplers, and other objects all around him.
+
+You have defeated the ghost.
+
+
+-------------------------------------------
+priya's Stat: 100
+-------------------------------------------
+
+
+You have defeated the ghost. 
+
+You have full health
+
+
+-------------------------------------------
+priya's Stat: 100
+-------------------------------------------
+
+
+Which room would you like to enter: 
+1 = Bedroom 
+2 = Study 
+3 = Day Room 
+4 = Living Room 
+
+From input.txt: 3
+
+You walk into the day room on the main floor.
+As you walk in, the lights above you start to flicker. 
+'Beware mortal! Do not step any further' says a loud bellowing voice. 
+You perseveer and take a baby step. 
+A ghostly green haze appears, you make out a very angry looking old man. 
+The ghost suddenly charges at you...
+
+You have defeated the ghost.
+
+
+-------------------------------------------
+priya's Stat: 100
+-------------------------------------------
+
+
+You have defeated the ghost. 
+
+You have full health
+
+
+-------------------------------------------
+priya's Stat: 100
+-------------------------------------------
+
+
+Which room would you like to enter: 
+1 = Bedroom 
+2 = Study 
+3 = Day Room 
+4 = Living Room 
+
+From input.txt: 4
+
+To exit by the back patio, you have to walk through a huge living room.
+As you walk into the living room, all the lights turn off. 
+The room becomes incredibly cold.
+You run towards the the only light source but a force suddenly fols you back.
+You have come face to face with foul breath and red eyes.
+...
+
+You remember you have a special vaccum to suck up demons and a supernatural knife.
+Choose your weapon: 
+0 = Special Vaccum 
+1 = Supernaturel Knife 
+
+From input.txt: 0
+
+You have weakned the demon
+
+
+-------------------------------------------
+priya's Stat: 100
+-------------------------------------------
+
+
+-------------------------------------------
+Deamon's Stat: 75
+-------------------------------------------
+
+
+
+You remember you have a special vaccum to suck up demons and a supernatural knife.
+Choose your weapon: 
+0 = Special Vaccum 
+1 = Supernaturel Knife 
+
+From input.txt: 1
+
+You have weakned the demon
+
+
+-------------------------------------------
+priya's Stat: 100
+-------------------------------------------
+
+
+-------------------------------------------
+Deamon's Stat: 50
+-------------------------------------------
+
+
+
+You remember you have a special vaccum to suck up demons and a supernatural knife.
+Choose your weapon: 
+0 = Special Vaccum 
+1 = Supernaturel Knife 
+
+From input.txt: 0
+
+You have weakned the demon
+
+
+-------------------------------------------
+priya's Stat: 100
+-------------------------------------------
+
+
+-------------------------------------------
+Deamon's Stat: 25
+-------------------------------------------
+
+
+
+You remember you have a special vaccum to suck up demons and a supernatural knife.
+Choose your weapon: 
+0 = Special Vaccum 
+1 = Supernaturel Knife 
+
+From input.txt: 0
+
+You have weakned the demon
+
+
+-------------------------------------------
+priya's Stat: 100
+-------------------------------------------
+
+
+-------------------------------------------
+Deamon's Stat: 0
+-------------------------------------------
+
+
+You have defeated the deamon. 
+
+CONGRATS! You're alive and you've cleared the haunted house!
